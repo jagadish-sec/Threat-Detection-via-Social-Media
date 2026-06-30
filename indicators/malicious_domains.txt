@@ -1,0 +1,23 @@
+# Malicious / Suspicious Domain Patterns
+# For educational and research use only
+
+# Typosquatting examples
+paypa1.com
+arnazon.com
+faceb00k.com
+googIe.com
+micros0ft.com
+apple-id-verify.com
+
+# Fake support portals
+apple-support-verify.com
+paypal-security-alert.net
+amazon-account-locked.info
+microsoft-helpdesk-now.com
+instagram-security-verify.com
+
+# Credential harvesting subdomains
+login.secure-verify.xyz
+account.update-now.info
+verify.signin-portal.net
+secure.account-confirm.xyz

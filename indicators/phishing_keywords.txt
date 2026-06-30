@@ -1,0 +1,47 @@
+# Phishing Keywords for Social Media Monitoring
+# One keyword/phrase per line — case insensitive matching
+
+# Account threats
+verify your account
+confirm your identity
+your account has been suspended
+unusual login activity detected
+update your information
+click to secure your account
+account verification required
+unauthorized access detected
+
+# Urgency triggers
+act now
+limited time
+expires today
+immediate action required
+urgent notice
+last warning
+your session will expire
+
+# Credential harvesting
+enter your password
+login to confirm
+sign in here
+reset your credentials
+re-enter your details
+
+# Financial scams
+free gift card
+win a prize
+claim your reward
+you have been selected
+100% guaranteed profit
+send crypto to receive more
+bitcoin giveaway
+double your money
+
+# Shortened/obfuscated URLs
+bit.ly
+tinyurl.com
+goo.gl
+ow.ly
+shorturl.at
+is.gd
+cutt.ly

@@ -1,0 +1,31 @@
+# Suspicious Social Media Behavioral Patterns
+# Used for OSINT profiling and account threat analysis
+
+## High-Risk Account Signals
+- Account created less than 30 days ago posting urgent content
+- No profile picture or generic/stock photo avatar
+- Username with random number suffix (user_48271983)
+- Follower count near zero but high posting frequency
+- Bio contains vague phrases: "making money online", "DM for opportunities"
+- Only shares/reposts — no original content
+- Posting identical content across multiple groups
+
+## High-Risk Post Signals
+- ALL CAPS with excessive exclamation marks
+- Shortened URLs with zero context
+- "DM for details" combined with vague financial offer
+- Requesting personal information in public replies
+- Claims of official affiliation without platform verification badge
+- Emotional manipulation: fear ("your account will be deleted"), greed ("free money")
+
+## Bot Behavior Patterns
+- Multiple identical posts within minutes
+- Replies to trending hashtags with unrelated phishing links
+- Post/delete cycles after recording link clicks
+- Coordinated posting with other suspicious accounts
+
+## Infrastructure Red Flags
+- Domain registered within 7 days of campaign start
+- SSL certificate from free provider (Let's Encrypt on suspicious domain)
+- Hosting on bulletproof providers
+- Multiple similar domains registered simultaneously
